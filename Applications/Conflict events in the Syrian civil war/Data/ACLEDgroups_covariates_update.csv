@@ -1,0 +1,96 @@
+label,id,type,ethn_relig,sponsor_quatar,sponsor_saudi,sponsor_turkey,sponsor_US,sponsor_jordan,sponsor_russia,sponsor_iran,sponsor_EU,rename_as,noidea
+AAS: Ahrar al Sham,29,Rebel Groups,1,1,1,1,,,,,,,0
+Ahmad al Abdo Forces,67,Rebel Groups,0,1,,,1,,,,,,0
+Ahrar al Sharqiyah,38,Political Militias,1,,,1,,,,,,,0
+Al Fath Al Mubeen Operation Room,2,State Forces,1,,,1,,,,,,,0
+Al Sham Corps,28,Rebel Groups,0,1,,1,1,,,,,,0
+Allied Syrian and/or Russian Forces,7,State Forces,5,,,,,,1,1,,,0
+Ansar al Tawhid,9,External/Other Forces,1,,,,,,,,,,0
+As-Sweida Communal Militia (Syria),53,Identity Militias,5,,,,,,,,,,0
+Asayish (Syria),21,Rebel Groups,4,,,,,,,,,,0
+Banyan al Marsus,56,Rebel Groups,0,,,,,,,,,,0
+Dar'a Popular Resistance,42,Rebel Groups,0,,,,,,,,,,0
+FaR: Al Rahman Corps,61,Rebel Groups,0,,,,1,1,,,,,0
+Fatemiyoun Brigade,14,Political Militias,2,,,,,,,1,,,0
+Fathbatou Operation Room,34,Political Militias,1,,,,,,,,,,0
+Former Operation Euphrates Shield,62,Rebel Groups,0,,,1,,,,,,,0
+Former Operation Olive Branch,45,Rebel Groups,0,,,1,,,,,,,0
+Free Idlib Army,48,Rebel Groups,0,1,1,,,,,,,,0
+Free Syrian Police,57,Political Militias,0,,,,,,,,1,,0
+Global Coalition Against Daesh,18,External/Other Forces,5,,1,,1,1,,,1,,0
+HNDZ: Nour al Din al Zinki Movement,51,Rebel Groups,0,,1,1,1,,,,,,0
+HTS: Hayat Tahrir al Sham,11,Rebel Groups,1,,,1,,,,,,,0
+HXP: Self-Defense Forces,27,Political Militias,4,,,,,,,,,,0
+Hamza Brigade,46,Rebel Groups,0,,,,1,,,,,,0
+Hamza Division - Aleppo,33,Rebel Groups,0,,,1,1,,,,,,0
+Hezbollah,54,Political Militias,2,,,,,,,1,,,0
+Hurras al Deen,19,External/Other Forces,1,,,,,,,,,,0
+Islamic State (Syria),6,Rebel Groups,1,,,,,,,,,,0
+Islamist Militia (Syria),32,Political Militias,1,,,,,,,,,,0
+Islamist Rebels (Syria),44,Rebel Groups,1,,,,,,,,,,0
+JOS: Lions of the East Army,63,Rebel Groups,0,,,,1,1,,,,,0
+JSH: Free Syrian Army,41,Rebel Groups,0,,1,,1,1,,,1,,0
+JTS: Syria Liberation Front,58,Rebel Groups,0,,,,,,,,,,0
+JTW: National Liberation Front,31,Rebel Groups,0,,,1,,,,,,,0
+JWS: Syrian National Army,10,Rebel Groups,0,,,1,,,,,,,0
+JaS: Levant Front,35,Political Militias,1,1,,1,,,,,,,0
+JaT: Army of Revolutionaries,49,Rebel Groups,5,,,,,,,,,,0
+Jabhat Fateh al Sham,70,Rebel Groups,1,,,,,,,,,,0
+Jaysh al Ahrar,50,Rebel Groups,1,,,,,,,,,,0
+Jaysh al Islam,26,Rebel Groups,1,,1,,,,,,,,0
+Jaysh al Izza,43,Rebel Groups,0,1,1,1,1,,,,,,0
+Jaysh al Nasr,60,Rebel Groups,0,,,1,1,,,,,,0
+JeA: Ababil Horan Battalion,65,Rebel Groups,0,,,,,,,,,,0
+Jund al Aqsa,69,Rebel Groups,1,,,,,,,,,,0
+Khalid ibn al Walid Army,52,State Forces,1,,,,,,,,,,0
+LAS: Northern Storm Brigade,39,Rebel Groups,0,,,1,,,,,,,0
+LaQ: Quds Brigade,23,Political Militias,2,,,,,,,1,,,0
+Liberation Army of Afrin,40,Political Militias,4,,,,,,,,,,0
+Liwa Fajr al Umma,71,Rebel Groups,1,,,,,,,,,,0
+Liwa al Aqsa,66,Rebel Groups,1,,,,,,,,,,0
+Military Forces of Iran,13,External/Other Forces,2,,,,,,,1,,,0
+Military Forces of Iraq: Popular Mobilization Forces,55,External/Other Forces,2,,,,,,,1,,,0
+Military Forces of Israel (2009-),16,External/Other Forces,5,,,,,,,,,,0
+Military Forces of Russia,8,External/Other Forces,5,,,,,,,,,,0
+Military Forces of Syria,1,State Forces,3,,,,,,1,1,,,0
+Military Forces of Turkey,4,External/Other Forces,0,,,1,,,,,,,0
+Militia (Pro-Government),22,Political Militias,3,,,,,,,,,,0
+Militia (Pro-Iran),20,Political Militias,2,,,,,,,1,,,0
+National Police Forces,24,Rebel Groups,5,,,,,,,,,,0
+Operation Euphrates Shield,68,Rebel Groups,0,,,1,,,,,,,0
+Operation Olive Branch,59,Rebel Groups,0,,,1,,,,,,,0
+Operation Peace Spring,17,Rebel Groups,0,,,1,,,,,,,0
+Opposition Rebels (Syria),5,External/Other Forces,5,,,,,,,,,,0
+Police Forces of Syria,30,State Forces,3,,,,,,1,1,,,0
+QDW: National Defense Forces,15,Political Militias,3,,,,,,,,,,0
+QSD: Syrian Democratic Forces,12,Rebel Groups,4,,,,1,,,,1,,0
+Rioters (Syria),36,Rioters,5,,,,,,,,,,0
+Sultan Murad Division,25,Rebel Groups,0,,,1,,,,,,,0
+Suquor al Sham,47,Rebel Groups,0,,,,,,,,,,0
+TIP: Turkistan Islamic Party,73,Political Militias,1,,,,,,,,,,0
+Union of the Forces of Jabal al Sheikh,64,Rebel Groups,1,,,,,,,,,,0
+Wa Harredh al Moa'mineen,37,Political Militias,1,,,,,,,,,,0
+YPG,3,External/Other Forces,4,,,,1,,,,1,,0
+Military Forces of Iraq,,Rebel Groups,5,,,,,,,,,,0
+Sultan Suleiman Shah Brigade (Syria),,Rebel Groups,0,,,1,,,,,,,0
+Military Forces of Jordan,,Rebel Groups,0,,,,,1,,,,,0
+3rd Corps,,Rebel Groups,0,,,1,,,,,,,0
+Kurdish Ethnic Militia (Syria),,Rebel Groups,4,,,,,,,,,,0
+JTS: Syrian Revolutionaries Front,,Rebel Groups,0,,1,1,,,,,,,0
+QSS: Youth of Sunna Forces,,Rebel Groups,0,,,,1,,,,,,0
+JTR: Front of Raqqa Revolutionaries,,Rebel Groups,0,,,,,,,,,,0
+JMT: Army of the Commandos of the Revolution,,Rebel Groups,0,,,,1,1,,,1,,0
+Army of Mujahideen,,Rebel Groups,1,,,,1,,,,,,0
+Abu Amara Brigade,,Rebel Groups,1,,,,,,,,,,0
+1st Coastal Division,,Rebel Groups,0,1,,,1,,,,,,0
+Southern Front,,Rebel Groups,0,,1,,1,1,,,,,0
+Al Wosta Division,29,Rebel Groups,1,1,1,1,,,,,,,1
+PYD: Kurdish Democratic Union Party,29,Rebel Groups,1,1,1,1,,,,,,YPG: Peoples Protection Units,0
+Muntasr Billah Battalion,,Rebel Groups,0,,,1,1,,,,,,0
+Sham Legion,29,Rebel Groups,1,1,1,1,,,,,,Al Sham Corps,0
+Liwa Sham al Rasul,29,Rebel Groups,1,1,1,1,,,,,,,1
+Ahrar Jabal al Sheikh,29,Rebel Groups,1,1,1,1,,,,,,,1
+Mutiny of Islamic State (Syria),,Rebel Groups,1,,,,,,,,,,0
+Syrian Elite Forces,,Rebel Groups,0,,,,1,,,,,,0
+Sham Liberation Army,,Rebel Groups,0,,,,,,,,,,0
+Menbij Military Council,,Rebel Groups,0,,,,1,,,,,,0
