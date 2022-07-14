@@ -10,12 +10,11 @@ library(Matrix)
 library(mgcv)
 library(Hmisc)
 library(stringr)
+library(lubridate)
 
 # Source scripts
-source("../functions_count.R")
-source("../../Simulation/simulation_function.R")
-source("../function_mgcv.R")
-source("../function_clustered.R")
+source("../functions.R")
+
 Rcpp::sourceCpp('../helper_fun.cpp')
 
 # Load data 
@@ -132,7 +131,7 @@ beta_fake_gt = c("Intercept" = T, "degree_sum" = F,"degree_abs" = F,
 beta_real_gt = c("Intercept" = T, "degree_sum" = F,"degree_abs" = T,
                  "triangle" = T, "repetition" = T, "repetition_bin" = T, "triangle_scaled" =F, 
                  "degree_sum_scaled" = F, "degree_abs_scaled" = F)
-debugonce(da_estimation_clustered_mgcv)
+
 result_sensor_data_remse =  da_estimation_clustered_mgcv(K = 10, K_2 = 10,only_beg = F,
                                                          beta_real_gt = beta_real_gt, rand_prop_real = 0.5,
                                                          separable = F,
