@@ -14,6 +14,7 @@ library(lubridate)
 
 # Source scripts
 source("../functions.R")
+source("../../Simulation/simulation_function.R")
 
 Rcpp::sourceCpp('../helper_fun.cpp')
 
@@ -156,7 +157,7 @@ result_sensor_data_remse =  da_estimation_clustered_mgcv(K = 10, K_2 = 10,only_b
 
 
 result_sensor_data_rem = da_estimation_clustered_mgcv(K = 30, K_2 = 20,only_beg = T,
-                                       beta_real_gt = beta_real_gt, rand_prop_real = 0.5,
+                                       beta_real_gt = beta_real_gt, rand_prop_real =1,
                                        separable = F,beg_time = 0,end_time = 4318,
                                        beta_fake_gt = beta_fake_gt,
                                        comb_event_stream = event_data,
@@ -176,6 +177,7 @@ result_sensor_data_rem = da_estimation_clustered_mgcv(K = 30, K_2 = 20,only_beg 
                                        exo_cat_fake  = list(),
                                        build = F,
                                        build_time = min(event_data_obs$times[year(event_data_obs$date) == 2018]))
+
 
 part_ecrem = fun_mi_ecrem_result(result_sensor_data_remse)
 fill = part_ecrem
